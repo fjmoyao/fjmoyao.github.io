@@ -2,14 +2,25 @@
 
 **Data Scientist / Data Analyst**
 
-![Phone Icon](images\phone.png) +57 3127748590  
-![Email Icon](images\gmail.png) frankj.mortiz@gmail.com  
-[![LinkedIn](images\linkedin.png)](https://www.linkedin.com/in/francisco-javier-mortiz/)  
-[![GitHub](images\github.png)](https://github.com/fjmoyao)
-
+**Phone:** +57 3127748590  
+**Email:** frankj.mortiz@gmail.com  
+**LinkedIn:**: (https://www.linkedin.com/in/francisco-javier-mortiz/)  
+**Github:**: (https://github.com/fjmoyao)
 
 ## Profile
 Data Scientist with a Master’s degree in Data Science and Analytics, specializing in advanced AI techniques, including machine learning and Natural Language Processing (NLP). With over three years of experience, I am proficient in designing and implementing machine learning models, ETL processes, and cloud computing solutions across platforms like Google Cloud and Azure. Experienced in developing dashboards for data-driven decision-making using tools like Data Studio, PowerBI, and Databricks. Passionate about leveraging analytics and AI to drive business innovation and decision-making.
+
+## Projects
+
+- **Llama 3 Chatbox**
+  Implementation of a chatbox app using state of the art LLM Llama 3
+  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://llama3demo.streamlit.app/)
+  **Github**: https://github.com/fjmoyao/llama_streamlit
+  ![Inference Example](images/Llama3_chatbot_demo2.gif)
+
+- **Stress Detection using Attention Models**
+  Implementation of an app for stress detection in text data using Attention Models (RoBERTa) and LLMs.
+  
 
 ## Education
 
