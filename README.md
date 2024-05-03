@@ -17,12 +17,23 @@ Data Scientist with a Master’s degree in Data Science and Analytics, specializ
 
   [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://llama3demo.streamlit.app/)
 
-  **Github:** [Llama 3 app](https://github.com/fjmoyao/llama_streamlit) 
+  **Github:** [Llama 3 App](https://github.com/fjmoyao/llama_streamlit) 
 
   ![Inference Example](images/Llama3_chatbot_demo2.gif)
 
 - **Stress Detection using Attention Models**
   Implementation of an app for stress detection in text data using Attention Models (RoBERTa) and LLMs.
+
+  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://stress-detection-app.streamlit.app/)
+
+  **Github:** [Stress Detection App](https://github.com/fjmoyao/stress-detection-streamlit) 
+  ![Inference Example](images\stress_inference.gif)
+
+- **Object Detection using YOLO-NAS**
+  Implementation of YOLO NAS algortith for object detection
+
+  **Github:** [Object Detection App](https://github.com/fjmoyao/yoloNAS-object-detection) 
+  [![Inference Example](images\yoloNAS.png)](https://www.youtube.com/watch?v=g3pIT8Di5pE)
 
 
 ## Education
