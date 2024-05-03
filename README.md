@@ -7,6 +7,7 @@
 [![LinkedIn](images\linkedin.png)](https://www.linkedin.com/in/francisco-javier-mortiz/)  
 [![GitHub](images\github.png)](https://github.com/fjmoyao)
 
+
 ## Profile
 Data Scientist with a Master’s degree in Data Science and Analytics, specializing in advanced AI techniques, including machine learning and Natural Language Processing (NLP). With over three years of experience, I am proficient in designing and implementing machine learning models, ETL processes, and cloud computing solutions across platforms like Google Cloud and Azure. Experienced in developing dashboards for data-driven decision-making using tools like Data Studio, PowerBI, and Databricks. Passionate about leveraging analytics and AI to drive business innovation and decision-making.
 

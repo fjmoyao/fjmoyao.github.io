@@ -1,19 +1,6 @@
 # add the following to _config.yml file
 title: [Francisco Moya]
-description: [Data Scientist with a Master’s degree in Data Science and Analytics, 
-specializing in advanced AI techniques such as machine learning, 
-Natural Language Processing (NLP), and the development of sophisticated 
-Large Language Models (LLMs). With over three years of professional experience, 
-I have a proven track record in designing and implementing state-of-the-art machine learning systems 
-that leverage both structured and unstructured data.
-
-My technical proficiency spans Python, SQL, PySpark, and leading cloud platforms 
-including Google Cloud Platform and Azure. I have extensive experience in building and deploying scalable machine learning models and ETL processes in 
-these environments. Additionally, I am skilled in developing interactive dashboards for data-driven decision-making using tools like Google Data Studio, PowerBI, and Databricks.
-
-I thrive in Agile development settings, bringing strong leadership, communication, 
-and teamwork skills to foster collaborative project success. My passion lies in harnessing advanced data analytics and artificial intelligence to propel 
-business innovation and enhance decision-making processes.]
+description: [Data Scientist | Data Analyst | ML/ DL | NLP | Computer Vision]
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
