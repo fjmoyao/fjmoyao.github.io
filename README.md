@@ -13,7 +13,7 @@ Data Scientist with a Master’s degree in Data Science and Analytics, specializ
 ## Projects
 
 - **Llama 3 Chatbox + Stress Detection:**
-  innovative chatbot application that integrates the state-of-the-art Llama 3 language model with a finely-tuned attention model (RoBERTa) for stress detection. Designed to deliver rapid and accurate interactions, this system utilizes cutting-edge natural language processing (NLP) technologies to identify signs of stress in user speech, thereby promoting a healthier and more aware communicative experience. **Github:** [Llama 3 App](https://github.com/fjmoyao/llama_streamlit) 
+  innovative chatbot application that integrates the state-of-the-art large language model Llama 3 with a fine-tuned attention model (RoBERTa) for stress detection. Designed to deliver rapid and accurate interactions, this system utilizes cutting-edge natural language processing (NLP) technologies to identify signs of stress in user speech, thereby promoting a healthier and more aware communicative experience. **Github:** [Llama 3 App](https://github.com/fjmoyao/llama_streamlit) 
 
   **Tech stack:** *Python, PyTorch, Hugging Face Transformers, Streamlit, Groq*
 
