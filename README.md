@@ -14,7 +14,9 @@ Data Scientist with a Master’s degree in Data Science and Analytics, specializ
 
 - **Llama 3 Chatbox + Stress Detection**
   innovative chatbot application that integrates the state-of-the-art Llama 3 language model with a finely-tuned attention model (RoBERTa) for stress detection. Designed to deliver rapid and accurate interactions, this system utilizes cutting-edge natural language processing (NLP) technologies to identify signs of stress in user speech, thereby promoting a healthier and more aware communicative experience.
+
   **Tech stack:** *Python, PyTorch, Hugging Face Transformers, Streamlit, Groq*
+  
   **Skills:** *NLP, API integration, Model Deployment, Sentiment Analysis*
 
   [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://llama3demo.streamlit.app/)
@@ -25,7 +27,9 @@ Data Scientist with a Master’s degree in Data Science and Analytics, specializ
 
 - **Stress Detection using Attention Models**
   Development of an application capable of detecting stress in textual data using advanced Attention Models (RoBERTa). By analyzing written text, particularly from social media platforms like Reddit, this tool identifies linguistic indicators of stress, offering crucial insights that can aid in early mental health interventions and potentially prevent more serious conditions.
+
   **Tech stack:** *Python, PyTorch, Hugging Face Transformers, Streamlit*
+
   **Skills:** *NLP, API integration, Text Analysis, Sentiment Analysis, Mental Health Analytics*
 
   [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://stress-detection-app.streamlit.app/)
@@ -35,7 +39,9 @@ Data Scientist with a Master’s degree in Data Science and Analytics, specializ
 
 - **Object Detection using YOLO-NAS**
   Implementation of an advanced object detection system using the YOLO NAS (Neural Architecture Search) algorithm, designed to efficiently identify and classify objects in images and videos. Leveraging pretrained weights on the comprehensive COCO dataset, the implementation offers precision and speed, suited for both static media and real-time detection via webcam 
+
   **Tech stack:** *Python, PyTorch, OpenCV, Streamlit*
+
   **Skills:** *Computer Vision, Real-Time Image Processing*
 
   **Github:** [Object Detection App](https://github.com/fjmoyao/yoloNAS-object-detection) 
