@@ -1,85 +1,31 @@
 # Francisco Moya
 
-**Data Scientist / Data Analyst**
+Lead Analytics Consultant at Aimpoint Digital. Applied AI, data products, analytics consulting, and teaching.
 
-**Phone:** +57 3127748590  
-**Email:** frankj.mortiz@gmail.com  
-**LinkedIn:** [Francisco Javier Moya Ortiz](https://www.linkedin.com/in/francisco-javier-mortiz/)  
-**Github:** [fjmoyao](https://github.com/fjmoyao)   
+[View portfolio](https://fjmoyao.github.io/) · [LinkedIn](https://www.linkedin.com/in/francisco-javier-mortiz/) · [GitHub](https://github.com/fjmoyao)
 
-## Profile
-Data Scientist with a Master’s degree in Data Science and Analytics, specializing in advanced AI techniques, including Computer Vision and Natural Language Processing (NLP). With over three years of experience, I am proficient in designing and implementing machine learning models, ETL processes, and cloud computing solutions across platforms like Google Cloud and Azure. Experienced in developing dashboards for data-driven decision-making using tools like Data Studio, PowerBI, and Databricks. Passionate about leveraging analytics and AI to drive business innovation and decision-making.
+## Selected work
 
-## Projects
+- Frank Studio: private multitrack desktop video editor.
+- NAEMA: private solar-platform work with customer and administration interfaces.
+- [Kana](https://github.com/fjmoyao/Kana): a hackathon prototype for PDF utility-bill parsing and agent-generated views.
+- [Escucha](https://github.com/fjmoyao/escucha): local-first transcription and speaker diarization, with optional cloud-based Claude.
+- Teaching tools: [Prompt Lab](https://fjmoyao.github.io/prompt-lab/estudiante.html), [Prompt Studio](https://fjmoyao.github.io/prompt-studio/estudiante.html), and [Model Match](https://fjmoyao.github.io/model-match/estudiante.html).
+- [Language and stress research demo](https://github.com/fjmoyao/stress-detection-streamlit): RoBERTa text classification, not a diagnostic tool.
 
-  **Llama 3 Chatbot + Stress Detection:**
-  innovative chatbot application that integrates the state-of-the-art large language model Llama 3 with a fine-tuned attention model (RoBERTa) for stress detection. Designed to deliver rapid and accurate interactions, this system utilizes cutting-edge natural language processing (NLP) technologies to identify signs of stress in user speech, thereby promoting a healthier and more aware communicative experience. **Github:** [Llama 3 App](https://github.com/fjmoyao/llama_streamlit) 
+## Background
 
-  **Tech stack:** *Python, PyTorch, Hugging Face Transformers, Streamlit, Groq*
+- Aimpoint Digital since July 2024; current role: Lead Analytics Consultant.
+- IFCO Systems, Data Analyst, June 2023 to July 2024.
+- Koggi Technologies, Data Analyst, October 2021 to June 2023.
+- Teaching: Universidad de los Andes Continuing Education (2026), EAFIT nodo (2025), and Correlation One (Teaching Assistant, March to June 2022).
+- MSc in Data Science and Analytics, EAFIT, 2021 to 2024.
+- Biomedical Engineering, Universidad de los Andes, 2016 to 2021.
 
-  **Skills:** *NLP, API integration, Model Deployment, Sentiment Analysis*
+## Site
 
-  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://llama3demo.streamlit.app/)
-  ![Inference Example](images/Llama3_chatbot_demo2.gif)
+Static HTML, CSS, and JavaScript. Hosted on GitHub Pages from the repository root. Spanish is the default language; an English version is available with the language control. No build step or runtime dependencies are required.
 
-  **Stress Detection using Attention Models:**
-  Development of an application capable of detecting stress in textual data using advanced Attention Models (RoBERTa). By analyzing written text, particularly from social media platforms like Reddit, this tool identifies linguistic indicators of stress, offering crucial insights that can aid in early mental health interventions and potentially prevent more serious conditions. **Github:** [Stress Detection App](https://github.com/fjmoyao/stress-detection-streamlit) 
+For a local preview, run `python3 -m http.server` in the repository and open the printed local address. JavaScript can be checked with `node --check assets/site.js`.
 
-  **Tech stack:** *Python, PyTorch, Hugging Face Transformers, Streamlit*
-
-  **Skills:** *NLP, API integration, Text Analysis, Sentiment Analysis, Mental Health Analytics*
-
-  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://stress-detection-app.streamlit.app/)
-  ![Inference Example](images\stress_inference.gif)
-
-  **Object Detection using YOLO-NAS:**
-  Implementation of an advanced object detection system using the YOLO NAS (Neural Architecture Search) algorithm, designed to efficiently identify and classify objects in images and videos. Leveraging pretrained weights on the comprehensive COCO dataset, the implementation offers precision and speed, suited for both static media and real-time detection via webcam. **Github:** [Object Detection App](https://github.com/fjmoyao/yoloNAS-object-detection)  
-
-  **Tech stack:** *Python, PyTorch, OpenCV, Streamlit*
-
-  **Skills:** *Computer Vision, Real-Time Image Processing*
-
-  **Video:** [Object Detection Inference](https://www.youtube.com/watch?v=g3pIT8Di5pE)
-  [![Inference Example](images\yoloNAS.png)](https://www.youtube.com/watch?v=g3pIT8Di5pE)
-
-
-## Education
-
-- **MSc in Data Science and Analytics**  
-  [EAFIT University](https://www.eafit.edu.co/) - Medellín, Colombia (2021-present)  
-  Thesis: "Applications of NLP and Attention Models for Stress Identification in Social Media Texts"
-
-- **Bachelor of Science in Biomedical Engineering**  
-  [University of the Andes](https://uniandes.edu.co/) - Bogotá, Colombia (2016-2021)  
-  Capstone Project: "White matter tract segmentation with deep learning approaches."
-
-## Professional Experience
-
-### [IFCO Systems](https://www.ifco.com/) - Data Analyst, Medellín, Colombia (06/2023 - present)
-- Enhanced strategic decision-making through comprehensive data analysis.
-- Optimized supply chain modeling and improved resource planning.
-- Streamlined data integration and usability of IoT device data.
-
-### [Koggi Technologies](https://koggi.co/) - Data Analyst, Remote (10/2021 - 06/2023)
-- Improved data quality management and optimized reporting systems.
-- Led the development of ETL processes enhancing data security and validity.
-
-### [Correlation One](https://www.correlation-one.com/) - Teaching Assistant, Remote (03/2022 - 06/2022)
-- Mentored over 50 scholarship recipients in real-world data science projects.
-- Provided educational leadership in data science through interactive lectures.
-
-## Online Courses & Certifications
-- **Become a PowerBI Specialist** - [LinkedIn Learning](https://www.linkedin.com/learning/) (Jul. 2023)
-- **Data Science For All (DS4A)** - [Correlation One](https://www.credential.net/f6a31ede-5525-4aea-8516-87410b103cbe#gs.8ssqo7) (Sep. 2021)
-- **Neural Networks and Deep Learning** - [Coursera](https://www.coursera.org/account/accomplishments/certificate/Y3NVV7TPJJTS) (Nov. 2020)
-
-## Skills
-- **Data Visualization:** Proficient with Microsoft Power BI, and Looker Studio.
-- **Software Proficiency:** Advanced in Python, SQL, and PySpark.
-- **Cloud Computing:** Skilled in Azure, Google Cloud Platform, and Databricks.
-- **Soft Skills:** Strong in leadership, teamwork, and analytical thinking.
-
-## Languages
-- **English:** Fluent
-- **Spanish:** Native
-
+The constellation artwork is original procedural SVG. Project illustrations are conceptual diagrams, not product screenshots. Manrope is self-hosted under the SIL Open Font License; see `assets/OFL-Manrope.txt`. Existing project media is retained in `images/`.

@@ -1,6 +1,7 @@
 (() => {
   'use strict';
   const root = document.documentElement;
+  root.classList.replace('no-js', 'js');
   const languageButton = document.querySelector('.language-toggle');
   const menuButton = document.querySelector('.menu-toggle');
   const nav = document.querySelector('#main-nav');
@@ -15,6 +16,7 @@
   };
   function updateMotion() {
     document.body.classList.toggle('motion-paused', paused);
+    motionButton.hidden = reducedMotion.matches;
     motionButton.setAttribute('aria-pressed', String(paused));
     motionButton.querySelector('span').textContent = paused ? labels[language].play : labels[language].pause;
     motionButton.querySelector('path').setAttribute('d', paused ? 'M9 5v14l10-7Z' : 'M9 6v12M15 6v12');
@@ -24,6 +26,7 @@
     menuButton.setAttribute('aria-expanded', String(open));
     menuButton.querySelector('span').textContent = open ? labels[language].close : labels[language].menu;
     if (restoreFocus) menuButton.focus();
+    if (open) nav.querySelector('a').focus();
   }
   function setLanguage(next) {
     language = next;
@@ -37,6 +40,7 @@
     nav.setAttribute('aria-label', labels[next].nav);
     document.querySelector('.wordmark').setAttribute('aria-label', labels[next].home);
     document.title = labels[next].title;
+    document.querySelector('meta[name=description]').content = next === 'es' ? 'Francisco Moya, Lead Analytics Consultant. Proyectos de IA aplicada, productos de datos y enseñanza.' : 'Francisco Moya, Lead Analytics Consultant. Applied AI projects, data products, and teaching.';
     updateMotion();
     setMenu(false);
     try { localStorage.setItem('portfolio-language', next); } catch (_) { /* Storage is optional. */ }
