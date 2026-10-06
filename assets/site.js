@@ -54,7 +54,7 @@
   reducedMotion.addEventListener('change', event => { paused = event.matches; updateMotion(); });
   updateMotion();
   languageButton.disabled = true;
-  fetch('assets/translations.json')
+  fetch('assets/translations.json?v=20261006.2')
     .then(response => { if (!response.ok) throw new Error('Language data unavailable'); return response.json(); })
     .then(data => {
       translations = data;
